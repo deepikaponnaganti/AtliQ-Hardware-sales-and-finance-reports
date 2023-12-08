@@ -23,6 +23,23 @@ Extend analysis skills to finance domain metrics, particularly in dissecting pro
 
 In summary, this project equips businesses with the tools to boost sales and manage finances effectively. By analyzing sales data and financial insights, it opens doors to new opportunities, fuels growth, and ensures competitiveness in a dynamic market.
 
+**Customer_Performance_Report**  
+![customer_performance_report](https://github.com/deepikaponnaganti/AtliQ-Hardware-sales-and-finance-reports/assets/144883605/06d7b230-9adc-43c7-8b03-f45232b73112)   
+
+**Market_Performance vs Target**  
+![Market performance vs Target](https://github.com/deepikaponnaganti/AtliQ-Hardware-sales-and-finance-reports/assets/144883605/67c6393c-46ec-4be1-969f-a28e2766ed74)  
+
+**Top 10 Products list**    
+![top 10](https://github.com/deepikaponnaganti/AtliQ-Hardware-sales-and-finance-reports/assets/144883605/62448e60-7c00-4861-85a0-6f02dc2e8cd3)   
+
+**P and L by Year**  
+![P and L by year](https://github.com/deepikaponnaganti/AtliQ-Hardware-sales-and-finance-reports/assets/144883605/ea1ab6a4-ebfa-42db-bed2-fc1f774cf246)  
+
+**P and L by months**  
+![P and L months](https://github.com/deepikaponnaganti/AtliQ-Hardware-sales-and-finance-reports/assets/144883605/08111f57-1cea-4337-b0e5-ac32298db81b)  
+
+
+
 
 
 
